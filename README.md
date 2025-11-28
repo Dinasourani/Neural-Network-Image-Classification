@@ -85,7 +85,7 @@ The following dependencies are used for data handling, visualization, and model 
 
 You can install all necessary libraries using **pip**:
 
-```bash
+
 pip install tensorflow numpy pandas matplotlib 🚀
 
 ### 🚀 Usage 
